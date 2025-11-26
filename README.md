@@ -7,7 +7,7 @@
   
   <!-- Typing Animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3500&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Building+Smart+IoT+Networks;Training+Vision+Transformers;Researching+Federated+Learning;Optimizing+Edge+Intelligence" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3500&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Building+Smart+IoT+Networks;Training+Vision+Models;Researching+Federated+Learning;Optimizing+Edge+Intelligence" alt="Typing SVG" />
   </a>
 
   <!-- Social Badges -->
