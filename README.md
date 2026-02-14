@@ -114,12 +114,6 @@ I don't just train models; I deploy them to the **Edge**. My work focuses on cre
 ### GitHub Analytics
 
 <div align="center">
-  <!-- Stats Cards -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Sam1rShaban1&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sam1rShaban1&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=6" height="150" alt="languages graph" />
-</div>
-
-<div align="center">
   <br>
   <!-- Dynamic Contribution Graph (Snake) -->
   <br><br>
