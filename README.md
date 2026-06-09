@@ -7,7 +7,7 @@
   
   <!-- Typing Animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3500&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Researcher+%26+Full+Stack+Engineer;Building+Intelligent+Edge+Systems;GPU-Accelerated+Digital+Twins;Training+Vision+Transformers" alt="Typing animation"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3500&pause=1000&color=20C20E&center=true&vCenter=true&width=535&lines=Researcher+%26+Full+Stack+Engineer;Building+Intelligent+Edge+Systems;GPU-Accelerated+Digital+Twins;Training+Vision+Transformers" alt="Typing animation"/>
   </a>
 
   <!-- Social Badges -->
@@ -39,7 +39,7 @@ I don't just train models; I deploy them to the **Edge**. My work focuses on cre
 
 **🏆 Recent Achievements:**
 - **ICAMES 2026** - Most Applicable Project Award (Boğaziçi University)
-- **Williams & May Global Innovation Challenge** - Selected Finalist
+- **Williams & May Global Innovation Challenge 2025** - Won Technology Stream
 - **GPU-Accelerated Digital Twin** - 50x+ speedup in RF planning simulations
 - **Cloud-Native IoT Pipeline** - Full observability stack with K3s, ArgoCD, EMQX
 
