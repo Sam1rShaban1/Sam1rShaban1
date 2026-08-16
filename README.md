@@ -1,33 +1,29 @@
-<!-- Hero Section -->
+<!-- Dithered Hero -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00bf8f,001510&height=280&section=header&text=Samir%20Shabani" width="100%"/>
+  <img src="assets/hero.svg" width="100%" alt="Samir Shabani" />
 </div>
 
 <div align="center">
-  
-  <!-- Typing Animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3500&pause=1000&color=20C20E&center=true&vCenter=true&width=535&lines=Researcher+%26+Full-Stack+Engineer;Edge+AI+%26+GPU+Computing;Cloud-Native+IoT+Systems;Air-Quality+Machine+Learning" alt="Typing animation"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3500&pause=1000&color=EBEBEB&center=true&vCenter=true&width=535&lines=Researcher+%26+Full-Stack+Engineer;Edge+AI+%26+GPU+Computing;Cloud-Native+IoT+Systems;Air-Quality+Machine+Learning" alt="Typing animation"/>
   </a>
-
-  <!-- Social Badges -->
   <p>
     <a href="https://linkedin.com/in/samir-shabani">
-      <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0a0a0a?style=flat&logo=linkedin&logoColor=e8e8e8"/>
     </a>
     <a href="https://www.kaggle.com/samirshabani">
-      <img src="https://img.shields.io/badge/View_Kaggle_Profile-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Kaggle-Profile-0a0a0a?style=flat&logo=kaggle&logoColor=e8e8e8"/>
     </a>
     <a href="https://huggingface.co/SamirShabani">
-      <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white"/>
+      <img src="https://img.shields.io/badge/HuggingFace-Profile-0a0a0a?style=flat&logo=huggingface&logoColor=e8e8e8"/>
     </a>
     <a href="mailto:shabani.samir12@gmail.com">
-      <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Email-Contact-0a0a0a?style=flat&logo=gmail&logoColor=e8e8e8"/>
     </a>
   </p>
 </div>
 
----
+<img src="assets/divider.svg" width="100%" alt="divider" />
 
 ### About Me
 
@@ -35,13 +31,13 @@ Hi, I'm **Samir Shabani** — a Computer Science graduate from **South East Euro
 
 I build **intelligent edge systems**: deep-learning and federated-learning pipelines, GPU-accelerated digital twins, and cloud-native IoT infrastructure that runs on constrained hardware (Raspberry Pi, ESP32, NVIDIA GPUs). My work spans **air-quality modeling, RF network optimization, and multi-tenant web platforms**.
 
-**🏆 Recent Highlights:**
+**> recent highlights:**
 - **ICAMES 2026** — Most Applicable Project Award (capstone, Boğaziçi University)
 - **Williams & May Global Innovation Challenge 2025** — Winner
 - **GPU-Accelerated Digital Twin** — ~50× speedup in RF planning simulations
 - **Cloud-Native IoT Pipeline** — 1,966 msg/s at 98.3% efficiency on a 5-node Pi cluster
 
----
+<img src="assets/divider.svg" width="100%" alt="divider" />
 
 ### Experience
 
@@ -54,14 +50,14 @@ I build **intelligent edge systems**: deep-learning and federated-learning pipel
 - Built a distributed **LoRaWAN** testbed to validate air-quality dispersion models.
 - Developed deep-learning forecasting pipelines (**CNN–BiGRU**), including federated-learning variants.
 
----
+<img src="assets/divider.svg" width="100%" alt="divider" />
 
 ### Publications & Preprints
 
 - **"GPU-Accelerated LoRaWAN Gateway Placement via NSGA-II."** *Under review, ACM MSWIM 2026.* GPU Monte-Carlo RF simulation (~50× speedup vs. CPU); multi-objective coverage/spreading-factor optimization.
 - **"Cloud-Native IoT Streaming and Storage on Low-Power Edge Clusters."** *Manuscript in preparation.* Production **K3s** pipeline on Raspberry Pi; 1,966 msg/s at 98.3% efficiency across 184 benchmark runs.
 
----
+<img src="assets/divider.svg" width="100%" alt="divider" />
 
 ### Featured Projects
 
@@ -104,7 +100,7 @@ I build **intelligent edge systems**: deep-learning and federated-learning pipel
   </tr>
 </table>
 
----
+<img src="assets/divider.svg" width="100%" alt="divider" />
 
 ### Where I've Contributed
 
@@ -116,7 +112,7 @@ I'm a member of the **[ChallengeEU](https://github.com/ChallengeEU)** and **[we-
 - **[awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)** — dataset link fix (open)
 - **[besarism/restaurant-menu-api](https://github.com/besarism/restaurant-menu-api)** — dashboard decoupling & order-tracking features (merged)
 
----
+<img src="assets/divider.svg" width="100%" alt="divider" />
 
 ### Technical Skills
 
@@ -125,19 +121,19 @@ I'm a member of the **[ChallengeEU](https://github.com/ChallengeEU)** and **[we-
     <tr>
       <td align="center" width="30%">
         <b>Artificial Intelligence</b><br><br>
-        <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,opencv&perline=4" />
+        <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,opencv&perline=4&theme=dark" />
         <br><br>
         <i>Deep Learning, Federated Learning, Time-Series & Spatial Modeling, LLM/Agent tooling.</i>
       </td>
       <td align="center" width="30%">
         <b>IoT & Hardware</b><br><br>
-        <img src="https://skillicons.dev/icons?i=raspberrypi,arduino,cpp,linux&perline=4" />
+        <img src="https://skillicons.dev/icons?i=raspberrypi,arduino,cpp,linux&perline=4&theme=dark" />
         <br><br>
         <i>LoRaWAN, ESP32, Raspberry Pi, GPU Computing (CUDA/CuPy).</i>
       </td>
       <td align="center" width="30%">
         <b>Cloud & DevOps</b><br><br>
-        <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,bash&perline=4" />
+        <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,bash&perline=4&theme=dark" />
         <br><br>
         <i>K3s/Kubernetes, ArgoCD/GitOps, Ansible, Prometheus, Grafana.</i>
       </td>
@@ -148,18 +144,16 @@ I'm a member of the **[ChallengeEU](https://github.com/ChallengeEU)** and **[we-
 **Languages:** Python · C++ · C# · TypeScript · SQL · Bash
 **Web & Data:** Django 5.x · DRF · React · PostgreSQL · Redis · SAML2
 
----
+<img src="assets/divider.svg" width="100%" alt="divider" />
 
 ### GitHub Analytics
 
 <div align="center">
   <br>
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sam1rShaban1&layout=compact&theme=vision-friendly-dark&hide=html,css" alt="Top languages" />
 </div>
 
----
+<img src="assets/divider.svg" width="100%" alt="divider" />
 
 ### Education & Certifications
 
@@ -172,7 +166,7 @@ GPA: 8.73/10.0 (246 ECTS) | Oct 2022 – Jul 2026 · Capstone grade 10/10
 - Unity Certified Programmer
 - IBM Linux Shell Scripting
 
----
+<img src="assets/divider.svg" width="100%" alt="divider" />
 
 ### Awards & International Programs
 
@@ -181,7 +175,7 @@ GPA: 8.73/10.0 (246 ECTS) | Oct 2022 – Jul 2026 · Capstone grade 10/10
 - **Erasmus+ BIP:** Agentic AI Solutions for Sustainable Innovation, Babeș-Bolyai University (UBB Cluj), Romania — Jun 2026
 - **Erasmus+ BIP:** Industrial Robotics in Practice, Hochschule Offenburg, Germany (3 ECTS) — Mar 2026
 
----
+<img src="assets/divider.svg" width="100%" alt="divider" />
 
 ### Let's Connect
 
