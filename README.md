@@ -27,26 +27,26 @@
 
 ### About Me
 
-Hi, I'm **Samir Shabani** — a Computer Science graduate from **South East European University (SEEU)**, Tetovo, North Macedonia, and a **Researcher & Full-Stack Engineer** at the **Max van der Stoel Institute**.
+Hi, I'm **Samir Shabani** - a Computer Science graduate from **South East European University (SEEU)**, Tetovo, North Macedonia, and a **Researcher & Full-Stack Engineer** at the **Max van der Stoel Institute**.
 
 I build **intelligent edge systems**: deep-learning and federated-learning pipelines, GPU-accelerated digital twins, and cloud-native IoT infrastructure that runs on constrained hardware (Raspberry Pi, ESP32, NVIDIA GPUs). My work spans **air-quality modeling, RF network optimization, and multi-tenant web platforms**.
 
 **> recent highlights:**
-- **ICAMES 2026** — Most Applicable Project Award (capstone, Boğaziçi University)
-- **Williams & May Global Innovation Challenge 2025** — Winner
-- **GPU-Accelerated Digital Twin** — ~50× speedup in RF planning simulations
-- **Cloud-Native IoT Pipeline** — 1,966 msg/s at 98.3% efficiency on a 5-node Pi cluster
+- **ICAMES 2026** - Most Applicable Project Award (capstone, Boğaziçi University)
+- **Williams & May Global Innovation Challenge 2025** - Winner
+- **GPU-Accelerated Digital Twin** - ~50× speedup in RF planning simulations
+- **Cloud-Native IoT Pipeline** - 1,966 msg/s at 98.3% efficiency on a 5-node Pi cluster
 
 <img src="assets/divider.svg" width="100%" alt="divider" />
 
 ### Experience
 
-**Full-Stack Engineer & Lead Developer** — Max van der Stoel Institute (ChallengeEU Project) · *Feb 2026 – Present*
+**Full-Stack Engineer & Lead Developer** - Max van der Stoel Institute (ChallengeEU Project) · *Feb 2026 – Present*
 - Sole developer of a multi-tenant platform for a university consortium (~90,000 potential users).
 - Backend in **Django 5.x / DRF** with **SAML2** federated identity across partner universities; **Celery + Redis** async processing.
 - Production hardening: role-based access control, API rate-limiting, and a **Pytest** suite.
 
-**Research Intern** — Max van der Stoel Institute, SEEU · *Mar 2025 – Jun 2025*
+**Research Intern** - Max van der Stoel Institute, SEEU · *Mar 2025 – Jun 2025*
 - Built a distributed **LoRaWAN** testbed to validate air-quality dispersion models.
 - Developed deep-learning forecasting pipelines (**CNN–BiGRU**), including federated-learning variants.
 
@@ -65,7 +65,7 @@ I build **intelligent edge systems**: deep-learning and federated-learning pipel
   <tr>
     <td width="50%">
       <h3><a href="https://github.com/Sam1rShaban1/rf-planner">⚡ RF Planner</a></h3>
-      <p>GPU-accelerated RF coverage planning — a digital twin of Tetovo with 10⁸ path-loss calculations offloaded to an NVIDIA P100 via CuPy, optimized with NSGA-II.</p>
+      <p>GPU-accelerated RF coverage planning - a digital twin of Tetovo with 10⁸ path-loss calculations offloaded to an NVIDIA P100 via CuPy, optimized with NSGA-II.</p>
       <p><code>Python</code> <code>CuPy</code> <code>CUDA</code> <code>NSGA-II</code></p>
     </td>
     <td width="50%">
@@ -82,14 +82,14 @@ I build **intelligent edge systems**: deep-learning and federated-learning pipel
     </td>
     <td width="50%">
       <h3><a href="https://github.com/Sam1rShaban1/Unocho">🌍 Unocho</a></h3>
-      <p>Humanitarian funding-gap dashboard built at the ETH Zurich Datathon 2026 — interactive geographic visualization of funding shortfalls (OCHA data).</p>
+      <p>Humanitarian funding-gap dashboard built at the ETH Zurich Datathon 2026 - interactive geographic visualization of funding shortfalls (OCHA data).</p>
       <p><code>React</code> <code>TypeScript</code> <code>Mapbox</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3><a href="https://github.com/ChallengeEU/WP2CatalogueRefactor">🎓 ChallengeEU Catalogue</a></h3>
-      <p>Multi-tenant consortium platform (Django/DRF + SAML2) serving a university network — the production system I lead as sole developer.</p>
+      <p>Multi-tenant consortium platform (Django/DRF + SAML2) serving a university network - the production system I lead as sole developer.</p>
       <p><code>Django</code> <code>DRF</code> <code>SAML2</code> <code>PostgreSQL</code></p>
     </td>
     <td width="50%">
@@ -106,11 +106,11 @@ I build **intelligent edge systems**: deep-learning and federated-learning pipel
 
 I'm a member of the **[ChallengeEU](https://github.com/ChallengeEU)** and **[we-create-1](https://github.com/we-create-1)** organizations. Beyond my own repos, I've opened merged and open PRs across the ecosystem:
 
-- **[menansali/rf-planner](https://github.com/menansali/rf-planner)** — link-budget fixes & OSM/antenna tooling (merged)
-- **[NawfalMotii79/PLFM_RADAR](https://github.com/NawfalMotii79/PLFM_RADAR)** — GUI redesign (open)
-- **[sivakumar-mahalingam/fastmrz](https://github.com/sivakumar-mahalingam/fastmrz)** — documentation (open)
-- **[awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)** — dataset link fix (open)
-- **[besarism/restaurant-menu-api](https://github.com/besarism/restaurant-menu-api)** — dashboard decoupling & order-tracking features (merged)
+- **[menansali/rf-planner](https://github.com/menansali/rf-planner)** - link-budget fixes & OSM/antenna tooling (merged)
+- **[NawfalMotii79/PLFM_RADAR](https://github.com/NawfalMotii79/PLFM_RADAR)** - GUI redesign (open)
+- **[sivakumar-mahalingam/fastmrz](https://github.com/sivakumar-mahalingam/fastmrz)** - documentation (open)
+- **[awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)** - dataset link fix (open)
+- **[besarism/restaurant-menu-api](https://github.com/besarism/restaurant-menu-api)** - dashboard decoupling & order-tracking features (merged)
 
 <img src="assets/divider.svg" width="100%" alt="divider" />
 
@@ -170,10 +170,10 @@ GPA: 8.73/10.0 (246 ECTS) | Oct 2022 – Jul 2026 · Capstone grade 10/10
 
 ### Awards & International Programs
 
-- **ICAMES 2026** — Most Applicable Project (capstone), Boğaziçi University · Winner
-- **Williams & May Global Innovation Challenge 2025** — Winner (Technology Stream)
-- **Erasmus+ BIP:** Agentic AI Solutions for Sustainable Innovation, Babeș-Bolyai University (UBB Cluj), Romania — Jun 2026
-- **Erasmus+ BIP:** Industrial Robotics in Practice, Hochschule Offenburg, Germany (3 ECTS) — Mar 2026
+- **ICAMES 2026** - Most Applicable Project (capstone), Boğaziçi University · Winner
+- **Williams & May Global Innovation Challenge 2025** - Winner (Technology Stream)
+- **Erasmus+ BIP:** Agentic AI Solutions for Sustainable Innovation, Babeș-Bolyai University (UBB Cluj), Romania - Jun 2026
+- **Erasmus+ BIP:** Industrial Robotics in Practice, Hochschule Offenburg, Germany (3 ECTS) - Mar 2026
 
 <img src="assets/divider.svg" width="100%" alt="divider" />
 
